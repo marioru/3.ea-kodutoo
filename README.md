@@ -1,5 +1,10 @@
 # 3. kodutöö – Chrome extension
 
+Autor: Marianne Kristiina Orusalu
+
+___
+
+
 Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
 
 **Töö on soovitatav teha kahekesi!**
