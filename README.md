@@ -2,7 +2,8 @@
 
 Autor: Marianne Kristiina Orusalu
 
-Chrome Extension: Ideeks on siis popup, mis kuvad Elron'i rongiaegade otsimiseks selleks vajaliku akna ning seejärel rongiajad ilma lehelt lahkumata.
+Chrome Extension: Ideeks on siis kuvad Elron'i rongiaegade otsimiseks popup akna. 
+(Kuna ma ei ole lehe omaniks siis eeldan, et ma ei saa *target* funktsionaalsust ise muuta seega kahjuks samas popup aknas ei ole võimalik rongiaegu kuvada. :confused:
 
 ___
 
