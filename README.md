@@ -2,6 +2,8 @@
 
 Autor: Marianne Kristiina Orusalu
 
+Chrome Extension: Ideeks on siis popup, mis kuvad Elron'i rongiaegade otsimiseks selleks vajaliku akna ning seejärel rongiajad ilma lehelt lahkumata.
+
 ___
 
 

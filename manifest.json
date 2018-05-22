@@ -1,0 +1,19 @@
+{
+	"name": "MiniElron",
+	"version": "1.0",
+	"manifest_version": 2,
+	"version": "0.1",
+	"description": "Search train schedules on Elron right from your browser without leaving your current page.",
+	"browser_action": {
+		"default_icon": "images/icon19.png",
+		"default_popup": "popup.html",
+		"default_title": "ELRON"
+	},
+	"icons": { 
+		"32": "images/icon32.png",
+		"48": "images/icon48.png",
+		"96": "images/icon96.png",
+		"128": "images/icon128.png"
+	}
+
+}
