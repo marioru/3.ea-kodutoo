@@ -3,7 +3,8 @@
 Autor: Marianne Kristiina Orusalu
 
 Chrome Extension: Ideeks on siis kuvad Elron'i rongiaegade otsimiseks popup akna. 
-(Kuna ma ei ole lehe omaniks siis eeldan, et ma ei saa *target* funktsionaalsust ise muuta seega kahjuks samas popup aknas ei ole võimalik rongiaegu kuvada. :confused:
+
+(Kuna ma ei ole lehe omaniks siis eeldan, et ma ei saa *target* funktsionaalsust ise muuta seega kahjuks samas popup aknas ei ole võimalik rongiaegu kuvada???) :confused:
 
 ![ScreenShot](https://github.com/marioru/3.ea-kodutoo/blob/master/ScreenShot.png)
 ___
